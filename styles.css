@@ -22,8 +22,12 @@ section {
     border-radius: 10px;
 }
 
-h1 {
-    color: #FF0000;
+.caixa{
+    border: 10px firebrick;
+}
+
+h1{
+  color: firebrick;
 }
 
 h2 {
